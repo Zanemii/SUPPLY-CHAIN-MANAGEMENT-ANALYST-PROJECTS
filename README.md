@@ -17,5 +17,5 @@ Through these projects, I apply analytical and problem-solving techniques to tra
 The portfolio demonstrates my ability to connect SCM concepts, analytical methods, and business decision-making to address supply chain challenges.
 
 #### Projects
-IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES
+**IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES**
 1. [Inventory Policies](https://github.com/Zanemii/SUPPLY-CHAIN-MANAGEMENT-ANALYST-PROJECTS/raw/main/Projects/Inventory%20Policies.xlsx)
