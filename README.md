@@ -2,6 +2,10 @@
 A collection of hands-on Supply Chain Management and Data Analytics projects developed as part of my SCM Analyst learning journey through Coursera, instructed by the Unilever team.
 These projects focus on applying data-driven approaches to real-world supply chain challenges, including demand planning, inventory management, production planning, procurement, supply chain analytics, and performance analysis.
 
+#### Projects
+**IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES**
+1. [Inventory Policies](https://github.com/Zanemii/SUPPLY-CHAIN-MANAGEMENT-ANALYST-PROJECTS/raw/main/Projects/Inventory%20Policies.xlsx)
+
 Through these projects, I apply analytical and problem-solving techniques to transform supply chain data into actionable insights and support better operational decision-making.
 
 ### Key Areas
@@ -16,6 +20,4 @@ Through these projects, I apply analytical and problem-solving techniques to tra
 
 The portfolio demonstrates my ability to connect SCM concepts, analytical methods, and business decision-making to address supply chain challenges.
 
-#### Projects
-**IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES**
-1. [Inventory Policies](https://github.com/Zanemii/SUPPLY-CHAIN-MANAGEMENT-ANALYST-PROJECTS/raw/main/Projects/Inventory%20Policies.xlsx)
+
