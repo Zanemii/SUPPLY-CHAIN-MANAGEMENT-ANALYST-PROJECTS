@@ -1,5 +1,5 @@
-# SUPPLY-CHAIN-MANAGEMENT-ANALYST-PROJECTS
-A collection of hands-on Supply Chain Management and Data Analytics projects developed as part of my SCM Analyst learning journey through Coursera, instructed by the Unilever team.
+# SUPPLY-CHAIN-MANAGEMENT-DATA-ANALYST-PROJECTS
+A collection of hands-on Supply Chain Management and Data Analytics projects developed as part of my SCM Data Analyst learning journey through Coursera, instructed by the Unilever team.
 These projects focus on applying data-driven approaches to real-world supply chain challenges, including demand planning, inventory management, production planning, procurement, supply chain analytics, and performance analysis.
 
 #### Projects
