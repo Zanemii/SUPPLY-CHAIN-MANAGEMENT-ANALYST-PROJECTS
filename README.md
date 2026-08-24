@@ -4,7 +4,11 @@ These projects focus on applying data-driven approaches to real-world supply cha
 
 #### Projects
 **IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES**
-1. [Inventory Policies](https://github.com/Zanemii/SUPPLY-CHAIN-MANAGEMENT-ANALYST-PROJECTS/raw/main/Projects/Inventory%20Policies.xlsx)
+1. Inventory Policies
+   - [Project](https://github.com/Zanemii/SUPPLY-CHAIN-MANAGEMENT-ANALYST-PROJECTS/raw/main/Projects/Inventory%20Policies.xlsx)
+2. Production Impact Analysis
+   - Presentation
+   - Project
 
 Through these projects, I apply analytical and problem-solving techniques to transform supply chain data into actionable insights and support better operational decision-making.
 
